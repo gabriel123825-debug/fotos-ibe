@@ -21,3 +21,21 @@ footer .brandLogo{width:132px;max-height:82px}
   header .brandLogo{width:104px;max-height:52px}
   footer .brandLogo{width:118px;max-height:72px}
 }
+
+/* v1.4 — refinamento final do tamanho da marca */
+header .brandLogo{
+  width:140px;
+  max-height:68px;
+}
+.admin aside .brandLogo{
+  width:155px;
+  max-height:88px;
+}
+.login>.brand .brandLogo{
+  width:155px;
+  max-height:88px;
+}
+footer .brandLogo{
+  width:132px;
+  max-height:82px;
+}
