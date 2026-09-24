@@ -11,3 +11,13 @@
 .admin aside .brandLogo{width:175px}
 footer .brandLogo{width:185px}
 @media(max-width:560px){.brandLogo{width:155px}footer .brandLogo{width:165px}}
+
+/* v1.3 — ajuste de escala da marca oficial */
+header .brandLogo{width:118px;max-height:58px}
+.admin aside .brandLogo{width:128px;max-height:72px}
+.login>.brand .brandLogo{width:128px;max-height:72px}
+footer .brandLogo{width:132px;max-height:82px}
+@media(max-width:560px){
+  header .brandLogo{width:104px;max-height:52px}
+  footer .brandLogo{width:118px;max-height:72px}
+}
